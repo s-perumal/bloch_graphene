@@ -1,2 +1,2 @@
 # bloch_graphene
-demonstrates block function for graphene
+demonstrates bloch function for graphene
